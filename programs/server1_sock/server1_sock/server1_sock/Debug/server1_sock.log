@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\olga\desktop\курсовая работа\курсовая основная\server1_sock\server1_sock\server1_sock\main.cpp(77): warning C4477: "sprintf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "char *"
+c:\users\olga\desktop\курсовая работа\курсовая основная\server1_sock\server1_sock\server1_sock\main.cpp(71): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note:  см. объявление "sprintf"
+c:\users\olga\desktop\курсовая работа\курсовая основная\server1_sock\server1_sock\server1_sock\main.cpp(77): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note:  см. объявление "sprintf"
+c:\users\olga\desktop\курсовая работа\курсовая основная\server1_sock\server1_sock\server1_sock\main.cpp(82): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note:  см. объявление "sprintf"
+c:\users\olga\desktop\курсовая работа\курсовая основная\server1_sock\server1_sock\server1_sock\main.cpp(86): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note:  см. объявление "strcpy"
+c:\users\olga\desktop\курсовая работа\курсовая основная\server1_sock\server1_sock\server1_sock\main.cpp(30): warning C4101: Message: неиспользованная локальная переменная
+  server1_sock.vcxproj -> C:\Users\Olga\Desktop\Курсовая работа\Курсовая основная\server1_sock\server1_sock\Debug\server1_sock.exe

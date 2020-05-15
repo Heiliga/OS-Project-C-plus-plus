@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sock_klient", "Sock_klient\Sock_klient.vcxproj", "{2490D86B-6CA7-4E8D-9378-4D89AD2C62E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2490D86B-6CA7-4E8D-9378-4D89AD2C62E4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2490D86B-6CA7-4E8D-9378-4D89AD2C62E4}.Debug|Win32.Build.0 = Debug|Win32
+		{2490D86B-6CA7-4E8D-9378-4D89AD2C62E4}.Release|Win32.ActiveCfg = Release|Win32
+		{2490D86B-6CA7-4E8D-9378-4D89AD2C62E4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
